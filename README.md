@@ -1,0 +1,1 @@
+A collection of useful [Alfred](https://www.alfredapp.com/) Workflows.
